@@ -1,6 +1,6 @@
 var console = require('console');
-var BH1750 = require('../bh1750');
-var light = new BH1750();
+var LTR390 = require('../ltr390');
+var light = new LTR390();
 
 light.readLight(function(err, value){
     if (err) {
