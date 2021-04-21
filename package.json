@@ -1,0 +1,36 @@
+{
+  "name": "ltr390",
+  "version": "1.0.0",
+  "description": "NodeJS interface to the LTR390 UV and Light sensor",
+  "main": "ltr390.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "coffescript": "0.0.1-security",
+    "i2c": "^0.2.5",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monolife/ltr390.git"
+  },
+  "keywords": [
+    "ltr390",
+    "raspberrypi",
+    "lux",
+    "uv"
+  ],
+  "author": "Amon Ducao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monolife/ltr390/issues"
+  },
+  "homepage": "https://github.com/monolife/ltr390#readme"
+}
