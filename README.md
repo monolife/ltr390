@@ -93,3 +93,5 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 * https://www.npmjs.com/package/bh1750
 * https://www.rohm.com/documents/11308/12926/CNA09016_sg.pdf
 * http://www.mouser.com/ds/2/348/bh1750fvi-e-186247.pdf
+=======
+# ltr390
